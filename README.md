@@ -4,7 +4,7 @@ This is a 4HP eurorack PCB for the HAGIWO sample and hold.
 For more info on the module, see:
 https://www.youtube.com/watch?v=DoiZ9PZacQo
 
-<img src="images/panel.JPG" width="20%" height="20%"> <img src="images/circuit.JPG" width="20%" height="20%">
+<img src="images/panel.JPG" width="17%" height="17%"> <img src="images/circuit.JPG" width="20%" height="20%">
 
 ## Status: Confirmed working!
 
